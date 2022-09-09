@@ -1,4 +1,4 @@
 # HesapMakinesi
-### Java-101 Hesap Makinesi
+### Java Patika Hesap Makinesi
 (www.patika.dev)
 
